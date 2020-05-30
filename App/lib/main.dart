@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'flutter bro',
+      title: 'bro changes this as the second commit',
       theme: ThemeData(
         // This is the theme of your application.
         //
