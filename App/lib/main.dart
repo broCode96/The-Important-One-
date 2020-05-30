@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter demo with sankha',
+      title: 'flutter bro',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
 
-      home: MyHomePage(title: 'Changed title changed by sankha and changed by adding this'),
+      home: MyHomePage(title: 'bro changed this'),
 
     );
   }
