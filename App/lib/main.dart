@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'bro changes this as the second commit',
+      title: 'This is how it shuold be',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
 
-      home: MyHomePage(title: 'bro changed this'),
+      home: MyHomePage(title: 'This is how it shuold be'),
 
     );
   }
